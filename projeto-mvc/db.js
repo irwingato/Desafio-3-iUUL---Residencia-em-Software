@@ -5,7 +5,7 @@ const { Sequelize, DataTypes } = require('sequelize');
 const sequelize = new Sequelize({
   database: 'Clinica Odontologica', // Nome do banco de dados padrão do PostgreSQL
   username: 'postgres',
-  password: '#Coloquesuasenha#',
+  password: 'QaZOkM147!@',
   host: 'localhost', // ou o host do seu PostgreSQL
   port: 5432, // Porta padrão do PostgreSQL
   dialect: 'postgres', // Define o dialeto como PostgreSQL
